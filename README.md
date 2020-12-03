@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/robertkumher/test_azure/_apis/build/status/robertkumher.pipelines-java?branchName=master)](https://dev.azure.com/robertkumher/test_azure/_build/latest?definitionId=3&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
